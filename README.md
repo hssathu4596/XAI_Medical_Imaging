@@ -1,1 +1,1 @@
-# XAI_Medical_Imaging
+# Explainable AI for Medical Imaging
